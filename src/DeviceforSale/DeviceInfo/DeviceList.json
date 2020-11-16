@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "product_name": "Nvidia Jetson Nano",
+      "product_description": "a",
+      "product_picture": "https://developer.nvidia.com/sites/default/files/akamai/embedded/images/jetsonNano/JetsonNano-DevKit_Front-Top_Right_trimmed.jpg",
+      "product_url": "https://developer.nvidia.com/embedded/jetson-nano-developer-kit",
+      "product_price": "99.9$"
+    },
+    {
+      "product_name": "Nvidia Jetson Xavier NX",
+      "product_description": "b",
+      "product_picture": "https://developer.nvidia.com/sites/default/files/akamai/embedded/images/jetsonNX/Jetson_Xavier_NX-Developer_Kit-Front_Top_Right.png",
+      "product_url": "https://developer.nvidia.com/embedded/jetson-xavier-nx-devkit",
+      "product_price": "398.99$"
+    },
+    {
+      "product_name": "Raspberry Pi 4",
+      "product_description": "c",
+      "product_picture": "https://www.raspberrypi.org/homepage-9df4b/static/raspberry-pi-4-labelled@2x-c1a040c7511610e7274e388432a458c4.png",
+      "product_url": "https://www.raspberrypi.org/products/raspberry-pi-4-model-b/",
+      "product_price": "35$"
+    },
+    {
+      "product_name": "Banana PI F2P",
+      "product_description": "d",
+      "product_picture": "http://www.banana-pi.org/pictures/bananapi/F2P/f2p-ov.png",
+      "product_url": "http://www.banana-pi.org/f2p.html",
+      "product_price": "49.9$"
+    },
+    {
+      "product_name": "ASUS Tinker Board S",
+      "product_description": "a",
+      "product_picture": "https://www.asus.com/media/global/gallery/Xy1ZCmZK9ckAGGBY_setting_fff_1_90_end_500.png",
+      "product_url": "https://www.asus.com/us/AIoT-Industrial-Solutions/Tinker-Board-S/",
+      "product_price": "77.5$"
+    },
+    {
+      "product_name": "ASUS Tinker Edge T",
+      "product_description": "a",
+      "product_picture": "https://www.asus.com/media/global/gallery/xr3ex6xqh4cbosuf_setting_fff_1_90_end_500.png",
+      "product_url": "https://www.asus.com/us/AIoT-Industrial-Solutions/Tinker-Edge-T/",
+      "product_price": "179.99$"
+    }
+  ]
+}
