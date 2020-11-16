@@ -1,0 +1,9 @@
+[[redirects]]
+  from = "/shopping"
+  to = "https://hanwen-itp-404-final-project.herokuapp.com/products"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to "index.html"
+  status = 200
