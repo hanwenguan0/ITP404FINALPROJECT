@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/shopping"
-  to = "https://hanwen-itp-404-final-project.herokuapp.com/products"
+  to = "https://hanwen-itp-404-final-project.herokuapp.com"
   status = 200
 
 [[redirects]]
