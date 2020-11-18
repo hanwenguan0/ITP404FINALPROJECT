@@ -21,7 +21,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "json-server": "json-server src/DeviceforSale/DeviceInfo/DeviceList.json -p 4000",
     "json-server-dev": "nodemon src/DeviceforSale/DeviceInfo/server.js",
     "json-server-prod": "node src/DeviceforSale/DeviceInfo/server.js",
     "build": "react-scripts build",
